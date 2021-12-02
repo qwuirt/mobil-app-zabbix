@@ -1,0 +1,226 @@
+{
+  "language": "English",
+  "@language":{
+    "description": "The current Language"
+  },
+  "problems": "Problems",
+  "@problems": {
+    "description": "The first page text problems"
+  },
+  "noProblem": "no problem",
+  "@noProblem": {
+    "description": "The first page text problems"
+  },
+  "noConnection": "no connection to the server",
+  "@noConnection": {
+    "description": "The first page text problems"
+  },
+  "noAnyConfigurations": "No any configurations server",
+  "@noAnyConfigurations": {
+    "description": "The first page text problems"
+  },
+  "pleaseAddServer": "please add server",
+  "@pleaseAddServer": {
+    "description": "The first page text problems"
+  },
+  "incorrectInputData": "INCORRECT INPUT DATA",
+  "@incorrectInputData": {
+    "description": "The error text"
+  },
+  "incorrectLogin": "incorrect password or login",
+  "@incorrectLogin":{
+    "description": "The error text"
+  },
+  "incorrectUrl": "invalid url address",
+  "@incorrectUrl":{
+    "description": "The error text"
+  },
+  "problem": "PROBLEM",
+  "@problem": {
+    "description": "The problem event"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "The problem event"
+  },
+  "systemStatus": "System Status",
+  "@systemStatus": {
+    "description": "The first page text problems"
+  },
+  "overview": "Overview",
+  "@overview":{
+    "description": "The icon menu item"
+  },
+  "networkMaps": "Network maps",
+  "@networkMaps":{
+    "description": "The icon menu item"
+  },
+  "resolvedProblem": "Resolved Problem",
+  "@resolvedProblem":{
+    "description": "The icon menu item"
+  },
+  "graphs": "Graph",
+  "@graphs":{
+    "description": "The icon menu item"
+  },
+  "graph": "Graph",
+  "@graph":{
+    "description": "The overview last value"
+  },
+  "history": "History",
+  "@history":{
+    "description": "The overview last value"
+  },
+  "scripts": "Scripts",
+  "@scripts":{
+    "description": "The icon menu item"
+  },
+  "configurations": "Configurations",
+  "@configurations":{
+    "description": "The icon menu item"
+  },
+  "about": "About",
+  "@about":{
+    "description": "The icon menu item"
+  },
+  "acknowledge": "Acknowledge",
+  "@acknowledge":{
+    "description": "The dropdown menu item"
+  },
+  "events": "Events",
+  "@events":{
+    "description": "The dropdown menu item"
+  },
+  "addZabbixServer": "Add Zabbix Server",
+  "@addZabbixServer":{
+    "description": "The configurations text input form"
+  },
+  "zabbixServers": "Zabbix Servers",
+  "@zabbixServers":{
+    "description": "The configurations text input form"
+  },
+  "apiUrlInput": "Zabbix api_jsonrpc.php Link",
+  "@apiUrlInput":{
+    "description": "The configurations text input form"
+  },
+  "userLogin": "User Login",
+  "@userLogin":{
+    "description": "The configurations text input form"
+  },
+  "userPassword": "User Password",
+  "@userPassword":{
+    "description": "The configurations text input form"
+  },
+  "checkRefreshTrigger": "Auto refresh trigger",
+  "@checkRefreshTrigger":{
+    "description": "The configurations text input form"
+  },
+  "inputRefreshTrigger": "Auto refresh trigger delay(s)",
+  "@inputRefreshTrigger":{
+    "description": "The configurations text input form"
+  },
+  "selectPriorityProblems": "Select the minimum priority in problems",
+  "@selectPriorityProblems":{
+    "description": "The configurations text input form"
+  },
+  "selectPrioritySystemStatus": "Select the minimum priority in system status",
+  "@selectPrioritySystemStatus":{
+    "description": "The configurations text input form"
+  },
+  "notClassified": "Not classified",
+  "@notClassified":{
+    "description": "The configurations text input form"
+  },
+  "information": "Information",
+  "@information":{
+    "description": "The configurations text input form"
+  },
+  "warning": "A warning",
+  "@warning":{
+    "description": "The configurations text input form"
+  },
+  "average": "Average",
+  "@average":{
+    "description": "The configurations text input form"
+  },
+  "high": "High",
+  "@high":{
+    "description": "The configurations text input form"
+  },
+  "emergency": "Emergency",
+  "@emergency":{
+    "description": "The configurations text input form"
+  },
+  "save": "SAVE",
+  "@save":{
+    "description": "The configurations text input form"
+  },
+  "message": "Message",
+  "@message":{
+    "description": "The confirmation text "
+  },
+  "closProblem": "Close the problem",
+  "@closProblem":{
+    "description": "The confirmation text "
+  },
+  "enterMessage": "Enter the Message",
+  "@enterMessage":{
+    "description": "The confirmation text "
+  },
+  "confirm": "To сonfirm",
+  "@confirm":{
+    "description": "The confirmation text "
+  },
+  "runScript": "Run the script",
+  "@runScript":{
+    "description": "The script text "
+  },
+  "cancel": "Cancel",
+  "@cancel":{
+    "description": "The script text "
+  },
+  "perform": "Perform",
+  "@perform":{
+    "description": "The script text "
+  },
+  "scriptCompleted": "Script completed",
+  "@scriptCompleted":{
+    "description": "The script text "
+  },
+  "scriptNotExecuted": "Script not executed",
+  "@scriptNotExecuted":{
+    "description": "The script text "
+  },
+  "minutes": "minutes",
+  "@minutes":{
+    "description": "The image radius "
+  },
+  "hours": "hours",
+  "@hours":{
+    "description": "The image radius "
+  },
+  "hour": "hour",
+  "@hour":{
+    "description": "The image radius "
+  },
+  "day": "day",
+  "@day":{
+    "description": "The image radius "
+  },
+  "days": "days",
+  "@days":{
+    "description": "The image radius "
+  },
+  "month": "month",
+  "@month":{
+    "description": "The image radius "
+  },
+  "year": "year",
+  "@year":{
+    "description": "The image radius "
+  },
+  "years": "years",
+  "@years":{
+    "description": "The image radius "
+  }
+}
